@@ -5,7 +5,6 @@ contracts/target/
 **/target/
 **/test_snapshots/
 dist/
-.env
 .claude/
 .agents/
 issue.md
@@ -27,3 +26,5 @@ frontend-build.log
 
 # ── Runtime data ─────────────────────────────────────────────────────────────
 server/audit-logs/
+config.bat
+node_modules
